@@ -14,6 +14,7 @@
 - project/invide
 - vuedraggable
 - scss
+- script setup
 
 ## Project setup
 ```
