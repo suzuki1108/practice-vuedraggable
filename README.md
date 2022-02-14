@@ -16,30 +16,13 @@
 - scss
 - script setup
 
-## Project setup
+# 環境構築
 ```
-npm install
+$ git clone https://github.com/suzuki1108/practice-vuedraggable.git
+$ cd practice-vuedraggable
 ```
 
-### Compiles and hot-reloads for development
+# ローカル実行
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
